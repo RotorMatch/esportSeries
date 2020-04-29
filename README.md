@@ -32,6 +32,7 @@ ESPORT SERIES
 ## 2.1 Format SPEC
 
 La série SPEC necessite une licence FFAM (loisir ou compétition), pour participer, ainsi que l'utilisation de drone type *SPEC* sur le [simulateur](#3-simulateur).
+Elle se déroulera sur un maximum de 4 semaines et sera au maximum de 100 pilotes.
 
 > Objectif : Proposer des courses dans des conditions de compétition réel (format de réglement).
 
@@ -59,13 +60,14 @@ Un membre de l'organisation devra être présent pour arbitrer chaques courses e
 
 ## 2.2 Format OPEN
 
-Cette série sera ouverte à tous et à tout type de machine sur Vélocidrone.
+Cette série sera ouverte à tous et à tout type de machine sur le [simulateur](#3-simulateur).
+Elle se déroulera sur un maximum de 4 semaines et sera au maximum de 200 pilotes.
 
 > Objectif : Favoriser la découverte des courses de drone au plus grand nombre.
 
 ### 2.2.1 Réglement
 
-Le reglement utilisable pour ce format sera l'un des 3 scenarios FAI ou le système à point RotorMatch.
+Le reglement utilisable pour ce format sera l'un des 3 scenarios FAI ou le système à point montée/descente.
 
 #### 2.2.1.1 Phase de Qualifications
 
