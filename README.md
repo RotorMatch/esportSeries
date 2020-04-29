@@ -1,7 +1,7 @@
 <!-- TOC -->
 
 - [ESPORT SERIES](#esport-series)
-  - [1. Objectif](#1-objectif)
+  - [1. Objectifs](#1-objectifs)
   - [2. Simulateur](#2-simulateur)
   - [3. Track](#3-track)
   - [4. Les séries](#4-les-s%c3%a9ries)
@@ -14,7 +14,10 @@
 
 Ici on va essayer de rédiger un document pour expliquer comment on va organiser une série Esport.
 
-## 1. Objectif
+## 1. Objectifs
+
+- Promouvoir la course de drones grâce au e-sport en touchant un public plus large et apporter plus de visibilité à la    discipline.
+- Maintenir une communauté dynamique toute l'année en organisant des compétitions sur simulateur.
 
 ## 2. Simulateur
 
