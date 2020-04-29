@@ -19,7 +19,7 @@
 
 ## 2. Formats des séries
 
-- SPEC (Officiel) : Licensié loisir/compétition & drone spec
+- SPEC (Officiel) : Licensié FFAM loisir/compétition & drone spec
 - OPEN : Ouverte à tous et tout type de machine.
 
 ### 2.1 Format SPEC
