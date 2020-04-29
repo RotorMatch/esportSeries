@@ -5,9 +5,12 @@
   - [2. Formats des séries](#2-formats-des-s%c3%a9ries)
     - [2.1 Format SPEC](#21-format-spec)
       - [2.1.1 Réglement](#211-r%c3%a9glement)
-      - [Qualifications](#qualifications)
-      - [Eliminatoire](#eliminatoire)
+      - [2.1.2 Phase de qualification](#212-phase-de-qualification)
+      - [2.1.3 Phase de compétition (Éliminatoire)](#213-phase-de-comp%c3%a9tition-%c3%89liminatoire)
     - [2.2 Format OPEN](#22-format-open)
+      - [2.2.1 Réglement](#221-r%c3%a9glement)
+      - [2.2.2 Phase de Qualifications](#222-phase-de-qualifications)
+      - [2.2.3 Phase de Compétition](#223-phase-de-comp%c3%a9tition)
   - [3. Simulateur](#3-simulateur)
   - [4. Track](#4-track)
 
@@ -35,14 +38,14 @@ La série SPEC necessite une licence FFAM (loisir ou compétition), pour partici
 
 Le reglement utilisable pour ce format sera uniquement les 3 scenarios FAI de la saison en cours.
 
-#### Qualifications
+#### 2.1.2 Phase de qualification
 
-La phase de qualification se déroule sur maximum 14 jours.
+La phase de qualification se déroule sur un maximum 14 jours.
 La qualification pourra se faire au meilleur tour ou bien au 3 meilleur tours.
 Le pilote devra effectuer ses temps seuls en chronométrant un tour à chaque fois.
-La répartition dans l'arbe éliminatoire ce fera comme indiqué dans le réglement F9U FAI en fonction du scénario choisi.
+La répartition dans la phase éliminatoire ce fera comme indiqué dans le réglement F9U FAI en fonction du scénario choisi.
 
-#### Eliminatoire
+#### 2.1.3 Phase de compétition (Éliminatoire)
 
 3 scénario possible en fonction du réglement F9U FAI.
 
@@ -57,9 +60,26 @@ Un membre de l'organisation devra être présent pour arbitrer chaques courses e
 
 Cette série sera ouverte à tous et à tout type de machine sur Vélocidrone.
 
+> Objectif : Favoriser la découverte des courses de drone au plus grand nombre.
+
+#### 2.2.1 Réglement
+
 Le reglement utilisable pour ce format sera l'un des 3 scenarios FAI ou le système à point RotorMatch.
 
-> Objectif : Favoriser la découverte des courses de drone au plus grand nombre.
+#### 2.2.2 Phase de Qualifications
+
+La phase de qualification se déroule sur maximum 14 jours.
+La qualification pourra se faire au meilleur tour ou bien au 3 meilleur tours.
+Le pilote devra effectuer ses temps seuls en chronométrant un tour à chaque fois.
+La répartition dans la phase éliminatoire ce fera comme indiqué dans le réglement F9U FAI en fonction du scénario choisi.
+
+#### 2.2.3 Phase de Compétition
+
+- Règlement à point (Montée descente)
+- Scénarios FAI F9U (Éliminatoire)
+  - Scenario A : 64 pilotes qualifiés
+  - Scenario B : 32 pilotes qualifiés
+  - Scenario C : 16 pilotes qualifiés
 
 ## 3. Simulateur
 
