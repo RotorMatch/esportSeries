@@ -26,7 +26,7 @@ Les tracks seront accessible à une date donnée et seront praticable à volont�
 
 ## 4. Les séries
 
-Proposition de création de 2 séries :
+Création de 2 séries
 
 ### Série SPEC
 
