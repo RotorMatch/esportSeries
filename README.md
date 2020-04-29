@@ -45,7 +45,7 @@ Le reglement utilisable pour ce format sera uniquement les 3 scenarios FAI de la
 La phase de qualification se déroule sur un maximum 14 jours.
 La qualification pourra se faire au meilleur tour ou bien au 3 meilleur tours.
 Le pilote devra effectuer ses temps seuls en chronométrant un tour à chaque fois.
-La répartition dans la phase éliminatoire ce fera comme indiqué dans le réglement F9U FAI en fonction du scénario choisi.
+La répartition dans la phase de compétition ce fera comme indiqué dans le réglement FAI F9U en fonction du scénario choisi.
 
 #### 2.1.1.2 Phase de compétition (Éliminatoire)
 
@@ -74,7 +74,7 @@ Le reglement utilisable pour ce format sera l'un des 3 scenarios FAI ou le syst�
 La phase de qualification se déroule sur maximum 14 jours.
 La qualification pourra se faire au meilleur tour ou bien au 3 meilleur tours.
 Le pilote devra effectuer ses temps seuls en chronométrant un tour à chaque fois.
-La répartition dans la phase éliminatoire ce fera comme indiqué dans le réglement F9U FAI en fonction du scénario choisi.
+La répartition dans la phase de compétition ce fera en fonction du reglement choisi.
 
 #### 2.2.1.2 Phase de Compétition
 
