@@ -86,7 +86,9 @@ La répartition dans la phase de compétition ce fera en fonction du reglement c
 
 # 3. Simulateur
 
-Le simulateur privilégié pour cette série Esport est : **Vélocidrone**
+Le simulateur privilégié pour cette série Esport est : **Velocidrone**
+
+Neanmoins le simulateur **EreaDrone** est egalement envisage, au vu des lacunes que possede **Velocidrone** par rapport a l'organisation d'evenement en-ligne.
 
 # 4. Track
 
